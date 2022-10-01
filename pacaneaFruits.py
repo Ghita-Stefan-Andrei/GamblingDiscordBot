@@ -1,0 +1,13 @@
+fruits = dict()
+fruits[0] = ":lemon:"
+fruits[1] = ":cherries:"
+fruits[2] = ":watermelon:"
+fruits[3] = ":banana:"
+fruits[4] = ":grapes:"
+fruits[5] = ":seven:"
+fruits[6] = ":crown:"
+runningGame = 0
+credit = 0
+bet = 0
+pacChannel = ""
+commTag = '/'
