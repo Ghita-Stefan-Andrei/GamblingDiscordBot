@@ -8,4 +8,4 @@
 <p> If you lost you can react with the blue emoji for a reroll</p>
 <p> If you won, you will be asked if you want to double or not by likeing or dislikeing the message</p>
 <p> When doubleing you can pick red or black to test your luck or if u changed your mind you can reroll by selecting the blue emoji</p>
-  
+<p> If the game didn't end by loseing all your money type /end </p>  
